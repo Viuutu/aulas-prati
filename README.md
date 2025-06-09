@@ -57,11 +57,5 @@ Duas funções:
 - `paresParaObjeto(pares)`: transforma array de pares `[ [chave, valor] ]` em objeto.
 - `objetoParaPares(obj)`: transforma objeto em array de pares.
 
----
 
-## ⚙️ Como Rodar
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
