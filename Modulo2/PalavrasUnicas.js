@@ -10,3 +10,5 @@ function palavrasUnicas(str) {
 
   return unicas;
 }
+
+console.log(palavrasUnicas("olá mundo, parabens ")); 
